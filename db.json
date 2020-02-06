@@ -15,8 +15,9 @@
     {
       "id": 3,
       "name": "Skittles",
-      "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg"
+      "isGoodDog": false,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg",
+      "likes": 2
     },
     {
       "id": 4,
